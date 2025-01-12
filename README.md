@@ -1,4 +1,4 @@
-# Meesho Data Challenge
+# Visual Taxomany
 
 ## 1. Introduction
 
