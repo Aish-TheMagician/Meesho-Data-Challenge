@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-### Brief Summary:
+### Brief Summary: [Kaggle Link](https://www.kaggle.com/competitions/visual-taxonomy)
 In this competition, we aimed to predict product attributes (such as color, sleeve length, pattern, etc.) directly from product images. The key challenge lies in the discrepancy between product images and descriptions, which is common in e-commerce platforms. The goal was to develop an efficient model that can accurately predict attributes from images, saving time for sellers and ensuring a more accurate product listing process. Our approach involved training multiple deep learning models, including Vision Transformer, Swin Transformer, and ResNet, and combining their predictions through a custom Max Voting ensemble technique.
 
 ## 2. Data Preprocessing
